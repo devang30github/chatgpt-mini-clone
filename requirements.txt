@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+pymongo
+pydantic
+python-dotenv
+sentence-transformers
+python-jose[cryptography]
+pydantic[email]
